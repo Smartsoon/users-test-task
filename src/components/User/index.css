@@ -1,0 +1,17 @@
+.user {
+  width: 320px;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  padding: 10px 15px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0 7px 14px 0;
+  margin-bottom: 20px;
+}
+.user span {
+  font-size: 16px;
+}
+
+/*# sourceMappingURL=index.css.map */
